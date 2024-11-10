@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89D782-3E8E-21F7-C73A-EE94BA24F742}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\assets\\scripts\\bagpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89D782-3E8E-21F7-C73A-EE94BA24F742}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bagpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89D782-3E8E-21F7-C73A-EE94BA24F742}|Assembly-CSharp.csproj|e:\\unity3d\\unityteach\\unitylearn_backpackofunlimiteditems\\assets\\scripts\\bagitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89D782-3E8E-21F7-C73A-EE94BA24F742}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bagitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89D782-3E8E-21F7-C73A-EE94BA24F742}|Assembly-CSharp.csproj|e:\\unity3d\\unityteach\\unitylearn_backpackofunlimiteditems\\assets\\scripts\\bagmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89D782-3E8E-21F7-C73A-EE94BA24F742}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bagmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89D782-3E8E-21F7-C73A-EE94BA24F742}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89D782-3E8E-21F7-C73A-EE94BA24F742}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA89D782-3E8E-21F7-C73A-EE94BA24F742}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA89D782-3E8E-21F7-C73A-EE94BA24F742}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BagItem.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\Assets\\Scripts\\BagItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BagItem.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\Assets\\Scripts\\BagItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BagItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:03:00.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\Assets\\Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\Assets\\Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:00:06.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BagMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\Assets\\Scripts\\BagMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BagMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\Assets\\Scripts\\BagMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BagMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:57:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BagPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\Assets\\Scripts\\BagPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BagPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\Assets\\Scripts\\BagPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BagPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:56:06.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\Assets\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BackpackOfUnlimitedItems\\Assets\\Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:53:28.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
