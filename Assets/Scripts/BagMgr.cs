@@ -9,7 +9,7 @@ public class BagMgr : BaseManager<BagMgr>
 
     public void InitInfo()
     {
-        for (int i = 0; i < itemList.Count; i++)
+        for (int i = 0; i < 10000; i++)
         {
             Item item = new Item();
             item.id = i;

@@ -7,6 +7,7 @@ public class Main : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        BagMgr.GetInstance().InitInfo();
         UIManager.GetInstance().ShowPanel<BasePanel>("BagPanel",E_UI_Layer.Bot);
     }
 

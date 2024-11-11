@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class BagItem : BasePanel
+public class BagItem : BasePanel, I_ItemBase<Item>
 {
     public void InitItemInfo(Item info)
     {
